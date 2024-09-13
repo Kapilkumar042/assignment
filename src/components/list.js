@@ -1,0 +1,71 @@
+export const printOnDemandLinks = [
+    "What is print on demand?",
+    "Product catalog",
+    "Shipping and delivery",
+    "Dropshipping products",
+    "Pro sellers",
+    "White label products",
+    "Returns policy",
+    "Global, yet local",
+    "Sustainability",
+    "Support",
+  ];
+  export const integrationsLinks = [
+    "Shopify",
+    "Etsy",
+    "WooCommerce",
+    "Wix",
+    "Squarespace",
+    "BigCommerce",
+    "API",
+  ];
+
+  export const startSellingLinks = [
+    "Embroidery",
+    "Print on demand t-shirts",
+    "Print on demand hoodies",
+    "Print on demand posters",
+    "Print on demand canvas",
+    "Print on demand calendars",
+    "Print on demand mugs",
+    "Custom products",
+    "Custom clothing",
+    "Custom merchandise",
+    "Custom phone cases",
+    "Print on demand Europe",
+    "Print on demand UK",
+    "Print on demand France",
+    "Print on demand Canada",
+    "Merch maker",
+  ];
+
+  export const companyLinks = [
+    "GelatoConnect",
+    "About Gelato",
+    "Leadership team",
+    "Board & investors",
+    "Newsroom",
+    "Blog",
+    "Customer Stories",
+    "Partners",
+    "Careers",
+    "Affiliates program",
+  ];
+
+ export const languageOptions = [
+    { value: "en-US", label: "English (India)" },
+    { value: "ca", label: "English (Canada)" },
+    { value: "uk", label: "English (United Kingdom)" },
+    { value: "au", label: "English (Australia)" },
+    { value: "in", label: "English" },
+    { value: "ja", label: "日本語" },
+    { value: "fr", label: "Francais" },
+    { value: "es", label: "Español" },
+    { value: "it", label: "Italiano" },
+    { value: "de", label: "Deutsch" },
+    { value: "no", label: "Norsk" },
+    { value: "se", label: "Svenska" },
+    { value: "vi", label: "Tiếng Việt" },
+    { value: "nl", label: "Nederlands" },
+    { value: "da", label: "Dansk" },
+  ];
